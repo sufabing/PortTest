@@ -1,7 +1,6 @@
 import random
 
 ai = []
-
 for i in range(1, 7):
     a1=int(random.randint(0, 9))
     ai.append(a1)
